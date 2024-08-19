@@ -706,7 +706,7 @@ strong {
 .counter-number,
 .counter-number-text {
   color: var(--primary-color);
-  font-size: var(--h1-font-size);
+  font-size: var(--h4-font-size);
   font-weight: var(--font-weight-bold);
   line-height: normal;
 }
@@ -1557,7 +1557,7 @@ blockquote::before {
 
   .counter-number, 
   .counter-number-text {
-    font-size: var(--h2-font-size);
+    font-size: var(--h4-font-size);
   }
 
   .contact-info-wrap {
